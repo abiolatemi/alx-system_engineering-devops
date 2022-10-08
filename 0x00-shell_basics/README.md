@@ -1,1 +1,1 @@
-print path name of current directories
+display list of directories
