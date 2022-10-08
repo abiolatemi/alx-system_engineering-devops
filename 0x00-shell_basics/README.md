@@ -1,1 +1,1 @@
-display list of directories
+know where you are
