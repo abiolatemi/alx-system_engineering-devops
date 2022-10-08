@@ -1,1 +1,1 @@
-know where you are
+display current directories in long format
